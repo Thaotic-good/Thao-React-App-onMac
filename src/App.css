@@ -46,3 +46,10 @@
 .blue-pill{
   color: blue;
 }
+
+.status-dot{
+  border-radius: 100%;
+  height: 1.3rem;
+  width: 1.3rem;
+  display: inline-block;
+}
