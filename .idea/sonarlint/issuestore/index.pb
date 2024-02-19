@@ -356,3 +356,5 @@ w
 G.idea/sonarlint/issuestore/1/9/19ba5e7161709a40a5f45ff8bf4c9aab4641a613,0/0/000f04d7b97ef280b0ef8f1ff7f2ce1e1a8cd4bd
 w
 G.idea/sonarlint/issuestore/1/4/145e082f3ebe2d324d669d4a01a5853ece20e524,3/0/30a21eb08e0dbcf0d0f59d87f3256b41ec16e75e
+B
+src/StarRating.jsx,9/d/9d4ae68f7777342f78c5eca05f07e6705d8ac8e8
