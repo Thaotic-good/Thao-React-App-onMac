@@ -2,14 +2,15 @@ import avatar from './img.png';
 import './App.css';
 import UserProfileForm from "./UserProfileForm";
 import RedPillBluePillChoice from "./RedPillBluePillChoice";
-import onlineStatusChecker from "./OnlineStatusChecker";
 import OnlineStatusChecker from "./OnlineStatusChecker";
+import StarRating from "./StarRating";
 
 function App() {
     return (
         <div className="App">
             <header className="App-header">
                 <img src={avatar} className="App-logo" alt="logo"/>
+                <StarRating/>
                 <OnlineStatusChecker/>
                 <RedPillBluePillChoice/>
                 <UserProfileForm/>
