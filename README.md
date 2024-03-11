@@ -1,3 +1,4 @@
+# On Martin's Mac this project is called thao-react-1, on GitHub it's called Thao-React_app-onMac
 # Getting Started with Create React App
 
 Hello. This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
