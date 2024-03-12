@@ -3145,3 +3145,7 @@ Q.idea/sonarlint/securityhotspotstore/0/c/0ce6b25c8f5b3b1aa1435a939fead77677e734
 Q.idea/sonarlint/securityhotspotstore/0/4/04cdc0998212c74f95cf96a04d9cf1dbffe3cd2e,b/e/be8ab35a784d920ce69e2bea440c862b3f2be3f5
 Å
 Q.idea/sonarlint/securityhotspotstore/0/4/047a83fc6b5e741ce4bb404a19580b6a30741be3,0/7/077ee94ce887ae2b4579d97f0d6933c768306916
+9
+	README.md,8/e/8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
+H
+src/LanguageSelector.jsx,e/6/e65d1d02bc8faa41d596f1cbdfa08776a5ee58aa
